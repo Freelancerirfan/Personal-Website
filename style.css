@@ -139,7 +139,7 @@ float: left;
     .box-chat {
         text-decoration: none;
         font-size: 16px;
-        background-image: linear-gradient(45deg,#ff7ae4, tomato;)
+        background-image: linear-gradient(45deg,#ff7ae4, tomato);
         margin: -12px 13px;
         padding: 13px 33px;
         border-radius: 4px;
